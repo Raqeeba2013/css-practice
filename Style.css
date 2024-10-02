@@ -1,0 +1,47 @@
+body {
+    background-color: red;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 40px auto;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 0;
+}
+
+p {
+    font-size: 18px;
+    color: green;
+}
+
+header {
+    color: darkgoldenrod;
+    padding: 20px;
+    text-align: center;
+    background-color: yellow;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav a {
+    color: orangered;
+    text-decoration: none;
+}
